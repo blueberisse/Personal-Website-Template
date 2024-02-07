@@ -15,4 +15,9 @@ Thank you for your interest in forking this repository! Forking a repository all
 5. **Clone Your Fork:** Once the fork is created, you'll want to clone it to your local machine so you can work on it. To do this, click the green "Code" button on your fork's repository page, copy the URL, and use it to clone the repository using Git on your local machine. Here's an example command to clone a repository:
 
 ```bash
-git clone https://github.com/your-username/repository-name.git
+git clone https://github.com/your-username/repository-name.git 
+```
+
+## Deploying with GitHub Pages:
+
+To deploy your forked repository using GitHub Pages, you need to navigate to the "Settings" tab of your forked repository on GitHub. Scroll down to the "Pages" section. From the "Source" dropdown menu, select the branch you want to use for GitHub Pages (deploy from a branch; e.g., main or master). Then, click on "Save". GitHub will generate a URL for your site, and you can access it from the "GitHub Pages" section in the repository settings.
